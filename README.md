@@ -3,7 +3,7 @@
 [![Acesso ao Portfólio](https://img.shields.io/badge/🚀_Acessar_Portfólio-FF5722?style=for-the-badge&logo=github&logoColor=white)](https://icarox52.github.io/portfolio/)
 [![GitHub Stars](https://img.shields.io/github/stars/Icarox52/portfolio?style=for-the-badge)](https://github.com/Icarox52/portfolio/stargazers)
 
-![Preview do Portfólio]() <!-- Adicione uma imagem real do seu projeto -->
+![Preview do Portfólio](https://github.com/Icarox52/portfolio/blob/main/readmePortfolio/Captura%20de%20tela%202025-06-21%20154933.png)
 
 
 ## 🛠️ Tecnologias Utilizadas
