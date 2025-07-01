@@ -32,7 +32,6 @@
 - ✨ **Animações Suaves** em CSS3
 - 📱 **Totalmente Responsivo**
 - 📬 **Formulário de Contato Funcional**
-- 🔍 **Filtro de Projetos** em JavaScript
 
 
 <div align="center">
